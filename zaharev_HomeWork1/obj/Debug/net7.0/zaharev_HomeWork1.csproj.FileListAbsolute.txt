@@ -1,0 +1,15 @@
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/bin/Debug/net7.0/zaharev_HomeWork1
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/bin/Debug/net7.0/zaharev_HomeWork1.deps.json
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/bin/Debug/net7.0/zaharev_HomeWork1.runtimeconfig.json
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/bin/Debug/net7.0/zaharev_HomeWork1.dll
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/bin/Debug/net7.0/zaharev_HomeWork1.pdb
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/zaharev_HomeWork1.csproj.AssemblyReference.cache
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/zaharev_HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/zaharev_HomeWork1.AssemblyInfoInputs.cache
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/zaharev_HomeWork1.AssemblyInfo.cs
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/zaharev_HomeWork1.csproj.CoreCompileInputs.cache
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/zaharev_HomeWork1.dll
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/refint/zaharev_HomeWork1.dll
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/zaharev_HomeWork1.pdb
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/zaharev_HomeWork1.genruntimeconfig.cache
+/Users/vasilijterkin/Documents/CSharp/zaharev_HomeWork1/zaharev_HomeWork1/obj/Debug/net7.0/ref/zaharev_HomeWork1.dll
